@@ -1,0 +1,2 @@
+mwapi
+git+ssh://git@github.com/mediawiki-utilities/python-mwchatter
